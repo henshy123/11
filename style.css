@@ -1,0 +1,140 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    color: #1a1a1a;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: #111;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+.sec1 h2 {
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    color: #666;
+    text-transform: uppercase;
+}
+
+.sec1 h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #8b0000;
+}
+
+.sec1 h4 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #777;
+}
+
+/* Заголовки секций */
+.sec2 h1,
+.sec3 h1,
+.sec4 h1,
+.sec5 h1 {
+    font-size: 64px;
+    font-weight: 700;
+    color: #4a0d0d;
+    margin-bottom: 20px;
+}
+
+
+.sec2 h5 {
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #666;
+}
+
+.benefits h2 {
+    font-size: 64px;
+    font-weight: 700;
+    color: #8b0000;
+    margin-bottom: 10px;
+}
+
+.benefits p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #777;
+    line-height: 1.5;
+}
+
+
+.tatodiv p {
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.tatodiv h2 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+}
+
+
+.sec4 p {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #666;
+    max-width: 400px;
+}
+
+
+.sec5 h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.sec5 p {
+    font-size: 14px;
+    color: #fff;
+    line-height: 1.6;
+}
+
+.sec5 span {
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
+
+
+input::placeholder {
+    font-size: 13px;
+    color: #999;
+}
+
+button {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+
+footer h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #3d1a1a;
+}
+
+footer h4 {
+    font-size: 13px;
+    font-weight: 500;
+    color: #666;
+}
+
+footer p {
+    font-size: 12px;
+    color: #888;
+}
